@@ -1,22 +1,22 @@
-#🚀 PrepAI
+# 🚀 PrepAI
+
 AI-powered interview preparation platform that helps you practice technical + HR interviews with real-time AI feedback.
 
-#🔥 Features
-🧠 AI-generated technical + HR questions
-🎯 Real-time answer feedback
-📊 Performance improvement insights
-💬 Interactive chat-based practice
-⚡ Fast and responsive UI
-🔐 Secure API handling with environment variables
+# 🔥 Features
 
-##🛠️ Tech Stack
-#Frontend
-React.js ⚛️
-Tailwind CSS 🎨
-Axios
+- 🧠 AI-generated technical + HR questions
+- 🎯 Real-time answer feedback
+- 📊 Performance improvement insights
+- 💬 Interactive chat-based practice
+- ⚡ Fast and responsive UI
+- 🔐 Secure API handling with environment variables
 
-#AI Integration
-Gemini API / OpenAI API
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js ⚛️
+- Tailwind CSS 🎨
+- Axios
 
 ## 📸 Screenshots
 
