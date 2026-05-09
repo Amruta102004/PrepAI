@@ -18,6 +18,9 @@ AI-powered interview preparation platform that helps you practice technical + HR
 - Tailwind CSS 🎨
 - Axios
 
+### AI Integration
+- Gemini API / OpenAI API
+
 ## 📸 Screenshots
 
 ### Home Page
