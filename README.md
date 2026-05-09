@@ -1,16 +1,32 @@
-# React + Vite
+🚀 PrepAI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-powered interview preparation platform that helps you practice technical + HR interviews with real-time AI feedback.
 
-Currently, two official plugins are available:
+🔥 Features
+🧠 AI-generated technical + HR questions
+🎯 Real-time answer feedback
+📊 Performance improvement insights
+💬 Interactive chat-based practice
+⚡ Fast and responsive UI
+🔐 Secure API handling with environment variables
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🛠️ Tech Stack
+Frontend
+React.js ⚛️
+Tailwind CSS 🎨
+Axios
 
-## React Compiler
+AI Integration
+Gemini API / OpenAI API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### Home Page
+<p align="center">
+  <img src="./screenshots/1.png" width="800"/>
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Generated Quetions
+<p align="center">
+  <img src="./screenshots/2.png" width="800"/>
+</p>
